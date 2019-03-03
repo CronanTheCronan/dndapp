@@ -1,0 +1,9 @@
+D:\Projects\DDAPI\Dragoons\bin\Debug\Dragoons.dacpac
+D:\Projects\DDAPI\Dragoons\bin\Debug\Dragoons.dll
+D:\Projects\DDAPI\Dragoons\bin\Debug\Dragoons.pdb
+D:\Projects\DDAPI\Dragoons\obj\Debug\Dragoons.dll
+D:\Projects\DDAPI\Dragoons\obj\Debug\Dragoons.pdb
+D:\Projects\DDAPI\Dragoons\obj\Debug\Model.xml
+D:\Projects\DDAPI\Dragoons\obj\Debug\refactor.xml
+D:\Projects\DDAPI\Dragoons\obj\Debug\postdeploy.sql
+D:\Projects\DDAPI\Dragoons\obj\Debug\predeploy.sql

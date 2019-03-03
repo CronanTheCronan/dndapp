@@ -1,0 +1,14 @@
+D:\Projects\DDAPI\DDAPI\bin\Debug\netcoreapp2.1\DDAPI.deps.json
+D:\Projects\DDAPI\DDAPI\bin\Debug\netcoreapp2.1\DDAPI.runtimeconfig.json
+D:\Projects\DDAPI\DDAPI\bin\Debug\netcoreapp2.1\DDAPI.runtimeconfig.dev.json
+D:\Projects\DDAPI\DDAPI\bin\Debug\netcoreapp2.1\DDAPI.dll
+D:\Projects\DDAPI\DDAPI\obj\Debug\netcoreapp2.1\DDAPI.csproj.CoreCompileInputs.cache
+D:\Projects\DDAPI\DDAPI\obj\Debug\netcoreapp2.1\DDAPI.RazorAssemblyInfo.cache
+D:\Projects\DDAPI\DDAPI\obj\Debug\netcoreapp2.1\DDAPI.RazorAssemblyInfo.cs
+D:\Projects\DDAPI\DDAPI\obj\Debug\netcoreapp2.1\DDAPI.AssemblyInfoInputs.cache
+D:\Projects\DDAPI\DDAPI\obj\Debug\netcoreapp2.1\DDAPI.AssemblyInfo.cs
+D:\Projects\DDAPI\DDAPI\obj\Debug\netcoreapp2.1\DDAPI.RazorTargetAssemblyInfo.cache
+D:\Projects\DDAPI\DDAPI\bin\Debug\netcoreapp2.1\DDAPI.pdb
+D:\Projects\DDAPI\DDAPI\obj\Debug\netcoreapp2.1\DDAPI.dll
+D:\Projects\DDAPI\DDAPI\obj\Debug\netcoreapp2.1\DDAPI.pdb
+D:\Projects\DDAPI\DDAPI\obj\Debug\netcoreapp2.1\DDAPI.csprojAssemblyReference.cache
